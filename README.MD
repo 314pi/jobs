@@ -13,13 +13,13 @@ Các thông tin cá nhân khác không được nêu tại đây bao gồm:
 >>>>>>>>>>>>>>>>>>>>>>>>>
 Các liên kết hữu ích: 
 Hồ sơ tìm việc: https://github.com/314pi/jobs
-Website cá nhân:
-Github: https://github.com/314pi
-Watpad:
 Facebook: Không
-Freelancer: 
-Vlanecer:
 Zalo: 0854.314.159
+Github: https://github.com/314pi
+Vlance: https://www.vlance.vn/freelancer/nguyen-phuong-thai-1
+Website cá nhân:
+Watpad:
+Freelancer: 
 Website đã thiết kế:
 	khangminhxaydung.vn
 	chuyendungath.com
